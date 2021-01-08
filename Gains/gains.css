@@ -1,0 +1,41 @@
+
+body {
+    text-align: center;
+    background-color: #222426;
+    color: white;
+}
+.container {
+    width: 60%;
+}
+.form-container {
+    width: 40%;
+    margin-bottom: 5%;
+    padding: 2rem;
+    border: 3px solid black;
+}
+.details {
+    width: 50%;
+}
+.tabcontent {
+    width: 60%;
+}
+.topbar {
+    border-right:1px solid black;
+}
+.footer {
+    border-top:1px solid black;
+}
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+#navbar_username {
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+#chart_div {
+    width: 100%; 
+    height: 500px;
+}
